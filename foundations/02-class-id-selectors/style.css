@@ -1,0 +1,19 @@
+p {
+font-family: Verdana, DejaVu Sans, sans-serif;
+background-color: rgba(255, 0, 98, 0.527);
+}
+
+.A{
+    font-size: 36px;
+    color: blue;
+}
+
+#B{
+    font-size: 24px;
+}
+
+.B{
+    background-color: rgb(90, 231, 90);
+    font-weight: bold;
+    font-size: 24px;
+}
